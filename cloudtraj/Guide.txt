@@ -1,4 +1,3 @@
-"# cloudtraj" 
 How to run the query
 
 For ID temporal Query, you can insert the taxi Id, Time Start and Time end from the input example
